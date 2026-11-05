@@ -15,7 +15,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<urn:uuid:performanceEvents/4019778394> rdfs:label "Aufführung: 1. Januar 1758 (Neujahr)";
+<https:test.neu/performanceEvents/4019778394> rdfs:label "Aufführung: 1. Januar 1758 (Neujahr)";
     a melod:PerformanceEvent;
     melod:hasEventDate _:b100_3fc761fc-073f-4a24-a13d-84823f56fb46;
     dct:conformsTo melod:PerformanceEvent.

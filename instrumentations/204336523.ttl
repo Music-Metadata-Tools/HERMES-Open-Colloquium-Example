@@ -15,7 +15,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix dataset: <https://adwmainz.pages.gitlab.rlp.net/nfdi4culture/cdmd/project_templates/mermeid-template/datasets/>.
 
-<urn:uuid:instrumentations/204336523> rdfs:label "Zweite Stimme, 2 V., B.c.";
+<https:test.neu/instrumentations/204336523> rdfs:label "Zweite Stimme, 2 V., B.c.";
     a melod:Instrumentation;
     melod:hasInstrumentationDetail _:b13_4e565adf-14c7-41d6-a65c-ebf43269282d, _:b13_b10ee23e-6ba8-41c6-9fbe-c3f7b5162909, _:b13_66234c46-e9d8-4af8-a5f6-7853a4cbef8a;
     dct:conformsTo melod:Instrumentation.

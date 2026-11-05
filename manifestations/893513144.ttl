@@ -17,16 +17,16 @@
 
 _:b84_239c2e71-de0c-4fc2-98fb-944b5543b9cd rdfs:label "Da, bei aufgehender Friedenssonne (Berlin 1762)";
     a melod:Title.
-<urn:uuid:manifestations/893513144> a melod:Manifestation;
+<https:test.neu/manifestations/893513144> a melod:Manifestation;
     melod:hasTitle _:b84_239c2e71-de0c-4fc2-98fb-944b5543b9cd;
     melod:hasContribution _:b84_d118c288-3262-4623-894c-02548e49645d;
     melod:hasTitlePage _:b84_811b0f7e-3b3a-40b2-8886-d2875fa75cb5;
     schema:publication _:b84_4ac5fdb1-44e1-473c-8f03-14252de3c7a3;
-    lrmoo:R4_embodies <urn:uuid:expressions/2293419636>;
-    melod:memberOfDataCollection <urn:uuid:dataCollections/manifestations>;
+    lrmoo:R4_embodies <https:test.neu/expressions/2293419636>;
+    melod:memberOfDataCollection <https:test.neu/dataCollections/manifestations>;
     dct:conformsTo melod:Manifestation.
 _:b84_d118c288-3262-4623-894c-02548e49645d a melod:Contribution;
-    melod:hasAgent <urn:uuid:persons/4202043203>;
+    melod:hasAgent <https:test.neu/persons/4202043203>;
     melod:hasRole melodTerms:Binder;
     melod:hasCertainty melodTerms:LowCertainty.
 _:b84_811b0f7e-3b3a-40b2-8886-d2875fa75cb5 a melod:TitlePage;
@@ -34,5 +34,5 @@ _:b84_811b0f7e-3b3a-40b2-8886-d2875fa75cb5 a melod:TitlePage;
 _:b84_4ac5fdb1-44e1-473c-8f03-14252de3c7a3 a schema:PublicationEvent;
     schema:startDate "1762-01-01"^^xsd:date;
     schema:endDate "1762-12-31"^^xsd:date;
-    schema:publishedBy <urn:uuid:persons/3073066331>;
-    schema:location <urn:uuid:places/2884711907>.
+    schema:publishedBy <https:test.neu/persons/3073066331>;
+    schema:location <https:test.neu/places/2884711907>.
