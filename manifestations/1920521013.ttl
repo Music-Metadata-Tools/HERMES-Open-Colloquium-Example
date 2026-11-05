@@ -17,8 +17,8 @@
 
 _:b88_b935e5ef-2664-4cdd-9aaf-07b1e698887b rdfs:label "Musicalisches Lob Gottes (Nürnberg 1742-1744)";
     a melod:Title.
-<https:test.neu/manifestations/1920521013> a melod:Manifestation;
+<https://test.echt/manifestations/1920521013> a melod:Manifestation;
     melod:hasTitle _:b88_b935e5ef-2664-4cdd-9aaf-07b1e698887b;
-    lrmoo:R4_embodies <https:test.neu/expressions/2293419636>;
-    melod:memberOfDataCollection <https:test.neu/dataCollections/manifestations>;
+    lrmoo:R4_embodies <https://test.echt/expressions/2293419636>;
+    melod:memberOfDataCollection <https://test.echt/dataCollections/manifestations>;
     dct:conformsTo melod:Manifestation.

@@ -2,7 +2,7 @@
 @prefix schema: <https://schema.org/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https:test.neu/dataCollections/manifestations> a melod:DataCollection ;
+<https://test.echt/dataCollections/manifestations> a melod:DataCollection ;
     rdfs:label "All manifestations" ;
     melod:hasClassification "source catalog" ;
-    schema:includedInDataCatalog <https:test.neu/dataCatalogs/catalog> .
+    schema:includedInDataCatalog <https://test.echt/dataCatalogs/catalog> .

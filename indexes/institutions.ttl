@@ -1,12 +1,12 @@
-<https:test.neu/institutions/484401742> <http://www.w3.org/2004/02/skos/core#related> <https:test.neu/places/2884711907> ;
+<https://test.echt/institutions/484401742> <http://www.w3.org/2004/02/skos/core#related> <https://test.echt/places/2884711907> ;
 	<http://www.w3.org/2004/02/skos/core#broader> "RISM" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz)" ;
 	a <https://lod.academy/melod/vocab/ontology#InstitutionEntity> .
-<https:test.neu/institutions/901685163> <http://www.w3.org/2004/02/skos/core#related> <https:test.neu/places/2884711907> ;
+<https://test.echt/institutions/901685163> <http://www.w3.org/2004/02/skos/core#related> <https://test.echt/places/2884711907> ;
 	<http://www.w3.org/2004/02/skos/core#broader> "RISM" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "D-Bsa (Sing-Akademie)" ;
 	a <https://lod.academy/melod/vocab/ontology#InstitutionEntity> .
-<https:test.neu/institutions/1447117359> <http://www.w3.org/2004/02/skos/core#related> <https:test.neu/places/2023822932> ;
+<https://test.echt/institutions/1447117359> <http://www.w3.org/2004/02/skos/core#related> <https://test.echt/places/2023822932> ;
 	<http://www.w3.org/2004/02/skos/core#broader> "RISM" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "D-F (Universitätsbibliothek Johann Christian Senckenberg)" ;
 	a <https://lod.academy/melod/vocab/ontology#InstitutionEntity> .

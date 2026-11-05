@@ -17,8 +17,8 @@
 
 _:b80_a808d650-b6dd-4a18-95aa-4155250f0b79 rdfs:label "D-B Mus.ms.autogr. Telemann, G. P. 60";
     a melod:Title.
-<https:test.neu/manifestations/3043558560> a melod:Manifestation;
+<https://test.echt/manifestations/3043558560> a melod:Manifestation;
     melod:hasTitle _:b80_a808d650-b6dd-4a18-95aa-4155250f0b79;
-    lrmoo:R4_embodies <https:test.neu/expressions/2293419636>;
-    melod:memberOfDataCollection <https:test.neu/dataCollections/manifestations>;
+    lrmoo:R4_embodies <https://test.echt/expressions/2293419636>;
+    melod:memberOfDataCollection <https://test.echt/dataCollections/manifestations>;
     dct:conformsTo melod:Manifestation.

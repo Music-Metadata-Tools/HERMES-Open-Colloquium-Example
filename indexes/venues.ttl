@@ -1,4 +1,4 @@
-<https:test.neu/venues/3689561562> <http://www.w3.org/2004/02/skos/core#related> <https:test.neu/places/2096486337> ;
+<https://test.echt/venues/3689561562> <http://www.w3.org/2004/02/skos/core#related> <https://test.echt/places/2096486337> ;
 	<http://www.w3.org/2004/02/skos/core#broader> "Hamburg" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "St. Catharinen" ;
 	a <https://lod.academy/melod/vocab/ontology#VenueEntity> .

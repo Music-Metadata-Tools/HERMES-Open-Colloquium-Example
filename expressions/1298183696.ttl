@@ -15,13 +15,13 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https:test.neu/expressions/1298183696> schema:position "3";
+<https://test.echt/expressions/1298183696> schema:position "3";
     rdfs:label "Recit[ativ]";
     melod:inLanguage melodTerms:German;
     melod:completionStatus melodTerms:CompleteExpression;
     a melod:Expression;
     melod:hasMeter _:b26_89f544a2-058b-45a7-a21a-df462e584942;
-    melod:hasInstrumentation <https:test.neu/instrumentations/204336523>;
+    melod:hasInstrumentation <https://test.echt/instrumentations/204336523>;
     melod:hasIncipit _:b26_a811b030-242b-4b88-9ab3-02d3906e03c7;
     dct:conformsTo melod:Expression.
 _:b26_89f544a2-058b-45a7-a21a-df462e584942 melod:usesMeterSymbol "common";

@@ -15,15 +15,15 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https:test.neu/expressions/1100659433> schema:position "2";
+<https://test.echt/expressions/1100659433> schema:position "2";
     rdfs:label "Choral";
     melod:completionStatus melodTerms:CompleteExpression;
     a melod:Expression;
     mus:U11_has_key _:b149_b22_b2e368e5-4fe8-4ef9-b909-5b6bddfccef4;
     melod:hasMeter _:b149_b22_740b3b9c-24f1-44eb-9853-112af44958a6;
-    melod:hasInstrumentation <https:test.neu/instrumentations/1134679629>;
+    melod:hasInstrumentation <https://test.echt/instrumentations/1134679629>;
     melod:hasIncipit _:b149_b22_05cfc9e8-40ba-4db8-a40f-8ce9d26be39f;
-    melod:hasExpressionPart <https:test.neu/expressions/2092075796>;
+    melod:hasExpressionPart <https://test.echt/expressions/2092075796>;
     dct:conformsTo melod:Expression.
 _:b149_b22_b2e368e5-4fe8-4ef9-b909-5b6bddfccef4 melod:hasPitch melodTerms:E;
     melod:hasAccidental melodTerms:Flat;
