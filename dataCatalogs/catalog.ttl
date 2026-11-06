@@ -15,7 +15,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix dataset: <https://adwmainz.pages.gitlab.rlp.net/nfdi4culture/cdmd/project_templates/mermeid-template/datasets/>.
 
-<https://test.echt/dataCatalogs/catalog> rdfs:label "MerMEId MeLODy Template";
+<https://neue.domain:)/dataCatalogs/catalog> rdfs:label "MerMEId MeLODy Template";
     melod:usesApplication "MerMEId MeLODy";
     a melod:DataCatalog;
     dct:conformsTo melod:DataCatalog.

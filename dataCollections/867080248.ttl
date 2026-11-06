@@ -15,8 +15,8 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https://test.echt/dataCollections/867080248> rdfs:label "MusLG";
-    schema:includedInDataCatalog <https://test.echt/dataCatalogs/catalog>;
+<https://neue.domain:)/dataCollections/867080248> rdfs:label "MusLG";
+    schema:includedInDataCatalog <https://neue.domain:)/dataCatalogs/catalog>;
     melod:hasClassification "work catalog";
     melod:hasStatus "draft";
     a melod:DataCollection;

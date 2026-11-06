@@ -1,6 +1,6 @@
-<https://test.echt/instrumentations/1134679629> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erste Stimme, Zweite Stimme, Erste Stimme, Zweite Stimme, B ad lib., 3 Trp., Pk., 2 V., Va. ad lib., B.c." ;
+<https://neue.domain:)/instrumentations/1134679629> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erste Stimme, Zweite Stimme, Erste Stimme, Zweite Stimme, B ad lib., 3 Trp., Pk., 2 V., Va. ad lib., B.c." ;
 	a <https://lod.academy/melod/vocab/ontology#InstrumentationEntity> .
-<https://test.echt/instrumentations/204336523> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweite Stimme, 2 V., B.c." ;
+<https://neue.domain:)/instrumentations/204336523> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweite Stimme, 2 V., B.c." ;
 	a <https://lod.academy/melod/vocab/ontology#InstrumentationEntity> .
-<https://test.echt/instrumentations/3896901877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweite Stimme, 3 Trp., Pk., 2 V., B.c." ;
+<https://neue.domain:)/instrumentations/3896901877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweite Stimme, 3 Trp., Pk., 2 V., B.c." ;
 	a <https://lod.academy/melod/vocab/ontology#InstrumentationEntity> .

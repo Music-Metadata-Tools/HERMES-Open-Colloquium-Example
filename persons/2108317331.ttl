@@ -7,7 +7,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix dataset: <https://adwmainz.pages.gitlab.rlp.net/nfdi4culture/cdmd/project_templates/mermeid-template/datasets/>.
 
-<https://test.echt/persons/2108317331> schema:familyName "Telemann";
+<https://neue.domain:)/persons/2108317331> schema:familyName "Telemann";
     schema:givenName "Georg Michael";
     schema:gender "male";
     a melod:Person.

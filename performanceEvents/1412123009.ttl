@@ -15,8 +15,8 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https://test.echt/performanceEvents/1412123009> rdfs:label "Aufführung [1. Januar 1742 (Neujahr)]";
-    melod:hasVenue <https://test.echt/venues/3689561562>;
+<https://neue.domain:)/performanceEvents/1412123009> rdfs:label "Aufführung [1. Januar 1742 (Neujahr)]";
+    melod:hasVenue <https://neue.domain:)/venues/3689561562>;
     a melod:PerformanceEvent;
     melod:hasEventDate _:b92_59a37d33-6c9c-4339-85c6-c36f840b4f61;
     dct:conformsTo melod:PerformanceEvent.

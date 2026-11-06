@@ -1,9 +1,9 @@
-<https://test.echt/works/555068543> <http://www.w3.org/2004/02/skos/core#related> <https://test.echt/dataCollections/867080248> , <https://test.echt/bibliography/268258228> , <https://test.echt/expressions/2293419636> ;
+<https://neue.domain:)/works/555068543> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCollections/867080248> , <https://neue.domain:)/bibliography/268258228> , <https://neue.domain:)/expressions/2293419636> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Halleluja, lobet den Namen des Herrn" ;
 	a <https://lod.academy/melod/vocab/ontology#WorkEntity> ;
-	<http://www.w3.org/2004/02/skos/core#related> <https://test.echt/dataCollections/works> , <https://test.echt/bibliography/2624363417> .
-<https://test.echt/works/1031334055> <http://www.w3.org/2004/02/skos/core#related> <https://test.echt/dataCollections/867080248> , <https://test.echt/bibliography/382681371> , <https://test.echt/works/555068543> , <https://test.echt/persons/2736609098> , <https://test.echt/expressions/2372423187> ;
+	<http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCollections/works> , <https://neue.domain:)/bibliography/2624363417> .
+<https://neue.domain:)/works/1031334055> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCollections/867080248> , <https://neue.domain:)/bibliography/382681371> , <https://neue.domain:)/works/555068543> , <https://neue.domain:)/persons/2736609098> , <https://neue.domain:)/expressions/2372423187> ;
 	<http://www.w3.org/2004/02/skos/core#altLabel> "Musikalisches Lob Gottes" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Musicalisches Lob Gottes" ;
 	a <https://lod.academy/melod/vocab/ontology#WorkEntity> ;
-	<http://www.w3.org/2004/02/skos/core#related> <https://test.echt/dataCollections/works> .
+	<http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCollections/works> .
