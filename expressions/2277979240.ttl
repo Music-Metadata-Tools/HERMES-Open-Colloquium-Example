@@ -15,13 +15,13 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https://neue.domain:)/expressions/2277979240> schema:position "6";
+<https://neue.domain/expressions/2277979240> schema:position "6";
     rdfs:label "Aria";
     melod:hasTempo "Aufgeweckt";
     a melod:Expression;
     mus:U11_has_key _:b38_f77d21cf-cb60-4429-9b74-9aed01f4085d;
     melod:hasMeter _:b38_ceaa281e-d15c-4d09-943d-1ae88789ed21;
-    melod:hasInstrumentation <https://neue.domain:)/instrumentations/3896901877>;
+    melod:hasInstrumentation <https://neue.domain/instrumentations/3896901877>;
     melod:hasIncipit _:b38_d7bbf93c-631d-4ae4-917a-10fc21976209;
     dct:conformsTo melod:Expression.
 _:b38_f77d21cf-cb60-4429-9b74-9aed01f4085d melod:hasPitch melodTerms:E;

@@ -1,9 +1,9 @@
-<https://neue.domain:)/manifestations/3043558560> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCollections/manifestations> , <https://neue.domain:)/expressions/2293419636> ;
+<https://neue.domain/manifestations/3043558560> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain/dataCollections/manifestations> , <https://neue.domain/expressions/2293419636> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "D-B Mus.ms.autogr. Telemann, G. P. 60" ;
 	a <https://lod.academy/melod/vocab/ontology#ManifestationEntity> .
-<https://neue.domain:)/manifestations/893513144> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/places/2884711907> , <https://neue.domain:)/persons/4202043203> , <https://neue.domain:)/persons/3073066331> , <https://neue.domain:)/dataCollections/manifestations> , <https://neue.domain:)/expressions/2293419636> ;
+<https://neue.domain/manifestations/893513144> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain/places/2884711907> , <https://neue.domain/persons/4202043203> , <https://neue.domain/persons/3073066331> , <https://neue.domain/dataCollections/manifestations> , <https://neue.domain/expressions/2293419636> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Da, bei aufgehender Friedenssonne (Berlin 1762)" ;
 	a <https://lod.academy/melod/vocab/ontology#ManifestationEntity> .
-<https://neue.domain:)/manifestations/1920521013> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCollections/manifestations> , <https://neue.domain:)/expressions/2293419636> ;
+<https://neue.domain/manifestations/1920521013> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain/dataCollections/manifestations> , <https://neue.domain/expressions/2293419636> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Musicalisches Lob Gottes (Nürnberg 1742-1744)" ;
 	a <https://lod.academy/melod/vocab/ontology#ManifestationEntity> .

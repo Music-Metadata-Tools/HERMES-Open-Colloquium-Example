@@ -1,9 +1,9 @@
-<https://neue.domain:)/dataCollections/manifestations> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCatalogs/catalog> ;
+<https://neue.domain/dataCollections/manifestations> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain/dataCatalogs/catalog> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "All manifestations" ;
 	a <https://lod.academy/melod/vocab/ontology#DataCollectionEntity> .
-<https://neue.domain:)/dataCollections/works> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCatalogs/catalog> ;
+<https://neue.domain/dataCollections/works> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain/dataCatalogs/catalog> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "All works" ;
 	a <https://lod.academy/melod/vocab/ontology#DataCollectionEntity> .
-<https://neue.domain:)/dataCollections/867080248> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain:)/dataCatalogs/catalog> ;
+<https://neue.domain/dataCollections/867080248> <http://www.w3.org/2004/02/skos/core#related> <https://neue.domain/dataCatalogs/catalog> ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "MusLG" ;
 	a <https://lod.academy/melod/vocab/ontology#DataCollectionEntity> .

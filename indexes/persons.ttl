@@ -1,10 +1,10 @@
-<https://neue.domain:)/persons/3073066331> <http://www.w3.org/2004/02/skos/core#prefLabel> "König, Samuel" ;
+<https://neue.domain/persons/3073066331> <http://www.w3.org/2004/02/skos/core#prefLabel> "König, Samuel" ;
 	a <https://lod.academy/melod/vocab/ontology#PersonEntity> .
-<https://neue.domain:)/persons/4202043203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neumeister, Erdmann" ;
+<https://neue.domain/persons/4202043203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neumeister, Erdmann" ;
 	a <https://lod.academy/melod/vocab/ontology#PersonEntity> .
-<https://neue.domain:)/persons/1510488037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poelchau, Georg" ;
+<https://neue.domain/persons/1510488037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poelchau, Georg" ;
 	a <https://lod.academy/melod/vocab/ontology#PersonEntity> .
-<https://neue.domain:)/persons/2108317331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telemann, Georg Michael" ;
+<https://neue.domain/persons/2108317331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telemann, Georg Michael" ;
 	a <https://lod.academy/melod/vocab/ontology#PersonEntity> .
-<https://neue.domain:)/persons/2736609098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telemann, Georg Philipp" ;
+<https://neue.domain/persons/2736609098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telemann, Georg Philipp" ;
 	a <https://lod.academy/melod/vocab/ontology#PersonEntity> .

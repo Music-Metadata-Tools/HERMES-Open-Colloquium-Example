@@ -2,7 +2,7 @@
 @prefix schema: <https://schema.org/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://neue.domain:)/dataCollections/works> a melod:DataCollection ;
+<https://neue.domain/dataCollections/works> a melod:DataCollection ;
     rdfs:label "All works" ;
     melod:hasClassification "work catalog" ;
-    schema:includedInDataCatalog <https://neue.domain:)/dataCatalogs/catalog> .
+    schema:includedInDataCatalog <https://neue.domain/dataCatalogs/catalog> .
